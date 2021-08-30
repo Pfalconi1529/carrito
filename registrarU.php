@@ -9,7 +9,12 @@
 	<div>
 		<div>
 			<div>
-				
+				<form>
+					<div>
+						<span>Ingresa tu nombre</span>
+						<input type="text" name="name">
+					</div>
+				</form>
 			</div>
 		</div>
 	</div>
