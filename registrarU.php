@@ -13,6 +13,7 @@
 					<div>
 						<span>Ingresa tu nombre</span>
 						<input type="text" name="name">
+						<button name="Ingresa">Aceptar</button>
 					</div>
 				</form>
 			</div>
