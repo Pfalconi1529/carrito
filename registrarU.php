@@ -11,7 +11,7 @@
 			<div>
 				<form>
 					<div>
-						<span>Ingresa tu nombre</span>
+						<span>Ingresa nombre pagina</span>
 						<input type="text" name="name">
 						<button name="Ingresa">Aceptar</button>
 					</div>
