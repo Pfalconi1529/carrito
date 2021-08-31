@@ -11,6 +11,7 @@
 			<div>
 				<form>
 					<div>
+						<h1>Formulario de registro</h1>
 						<span>Ingresa nombre pagina</span>
 						<input type="text" name="name">
 						<button name="Ingresa">Aceptar</button>
