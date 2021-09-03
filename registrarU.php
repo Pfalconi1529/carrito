@@ -13,6 +13,7 @@
 					<div>
 						<span>Ingresa nombre pagina</span>
 						<input type="text" name="name">
+						<input type="text" name="imagen">
 						<button name="Ingresa">Aceptar</button>
 					</div>
 				</form>
